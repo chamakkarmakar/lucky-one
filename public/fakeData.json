@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Sunglasses isolated on white",
+      "image": "https://www.freepik.com/free-photo/sunglasses-isolated-white_1035325.htm#query=eyeglasses&position=35&from_view=search",
+      "price": 332,
+      "eyeColor": "brown",
+      "company": "DELPHIDE"
+    },
+    {
+      "id": 2,
+      "name": "Sunglasses eyewear isolated",
+      "image": "https://www.freepik.com/free-photo/sunglasses-eyewear-isolated-white_1038425.htm?query=eyeglasses",
+      "price": 434,
+      "eyeColor": "brown",
+      "company": "UPLINX"
+    },
+    {
+      "id": 3,
+      "name": "Woman holding a pair of fashion eyeglass",
+      "image": "https://www.freepik.com/free-photo/woman-holding-pair-fashion-eyeglasses_5683753.htm#query=eyeglasses&position=27&from_view=search",
+      "price": 112,
+      "eyeColor": "brown",
+      "company": "RECRITUBE"
+    },
+    {
+      "id": 4,
+      "name": "Ophthalmologist doctor holding pair of eyeglass",
+      "image": "https://www.freepik.com/premium-photo/ophthalmologist-doctor-holding-pair-eyeglasses_5683741.htm",
+      "price": 530,
+      "eyeColor": "green",
+      "company": "SEQUITUR"
+    },
+    {
+      "id": 5,
+      "name": "Vacation glasses optical protection sun",
+      "image": "https://www.freepik.com/free-photo/vacation-glasses-optical-protection-sun_1047605.htm#query=eyeglasses%20fashion&position=3&from_view=keyword",
+      "price": 133,
+      "eyeColor": "brown",
+      "company": "EXOSPACE"
+    },
+    {
+      "id": 6,
+      "name": "Round sunglasses",
+      "image": "https://www.freepik.com/free-photo/round-sunglasses-fashion-fashion_24645353.htm?query=eyeglasses%20fashion",
+      "price": 935,
+      "eyeColor": "blue",
+      "company": "BILLMED"
+    },
+    {
+      "id": 7,
+      "name": "modern fashionable spectacles isolated on white",
+      "image": "https://www.freepik.com/premium-photo/imprice-modern-fashionable-spectacles-isolated-white_5917290.htm?query=eyeglasses%20fashion",
+      "price": 676,
+      "eyeColor": "green",
+      "company": "PASTURIA"
+    },
+    {
+      "id": 8,
+      "name": "modern fashionable spectacles isolated",
+      "image": "https://www.freepik.com/premium-photo/imprice-modern-fashionable-spectacles-isolated-white_5917284.htm?query=eyeglasses%20fashion",
+      "price": 724,
+      "eyeColor": "blue",
+      "company": "BIOHAB"
+    },
+    {
+      "id": 9,
+      "name": "Women eyewear eyeglass",
+      "image": "https://www.freepik.com/premium-photo/modern-fashionable-spectacles-white-background-glasses_18264869.htm?query=eyeglasses%20fashion",
+      "price": 751,
+      "eyeColor": "brown",
+      "company": "MAXEMIA"
+    },
+    {
+      "id": 10,
+      "name": "Sunglass",
+      "image": "https://www.freepik.com/free-photo/sunglasses_1135979.htm#query=eyeglasses%20fashion&position=10&from_view=keyword",
+      "price": 216,
+      "eyeColor": "brown",
+      "company": "SUREPLEX"
+    },
+    {
+      "id": 11,
+      "name": "A front view modern sunglass",
+      "image": "https://www.freepik.com/free-photo/front-view-modern-sunglasses-modern-brown-background-isolated-vision-spectacles-elegance_9368726.htm#query=eyeglasses&position=5&from_view=search",
+      "price": 556,
+      "eyeColor": "brown",
+      "company": "LUNCHPAD"
+    },
+    {
+        "id": 12,
+        "name": "Yellow kids eyeglass",
+        "image": "https://www.freepik.com/free-photo/yellow-kids-eyeglasses-gray-yellow-background_5683756.htm#query=eyeglasses&position=42&from_view=search",
+        "price": 835,
+        "eyeColor": "brown",
+        "company": "DAISU"
+      }
+  ]
