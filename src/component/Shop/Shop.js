@@ -1,5 +1,7 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
+import EyeGlass from '../EyeGlass/EyeGlass';
 import './Shop.css';
 
 const Shop = () => {
@@ -13,10 +15,16 @@ const Shop = () => {
     return (
         <div className='shop'>
             <div className="product-container">
-                <p>Data: {eyeGlasses.length}</p>
+                {
+                    eyeGlasses.map(eyeGlass => <EyeGlass 
+                        key={eyeGlass.id}
+                        eyeGlass={eyeGlass}
+                        ></EyeGlass>)
+                }
+                
             </div>
             <div className="cart-container">
-                
+                <Cart></Cart>
             </div>
             
 
