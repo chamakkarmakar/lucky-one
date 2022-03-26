@@ -7,6 +7,7 @@ import './Shop.css';
 const Shop = () => {
     const [eyeGlasses, setEyeGlass] = useState([]);
     const [cart, setCart] = useState([]);
+    const [choose, setChoose] = useState([]);
 
     useEffect(() => {
         fetch('fakeData.json')
@@ -20,14 +21,17 @@ const Shop = () => {
         if(newCart.length<=4){
             setCart(newCart);
         }
-        // else{
-        //     console.log('does not')
-        // }
         
     }
     const btnClear = () =>{
         const empty = [];
         setCart(empty);
+        setChoose(empty);
+    }
+    const btnChoose = () =>{
+        // const index = Math.floor(Math.random() * cart.length);
+        const item = cart[Math.floor(Math.random() * cart.length)];
+        setChoose(item);
     }
     
 
@@ -46,13 +50,16 @@ const Shop = () => {
             <div className="cart-container">
             <h3>Selected Items</h3>
             {
-                cart.map(item => <p>{item}</p>)
+                cart.map((item,id) => 
+                   <p key={id}>{item}</p> 
+                )
             }
-            <button className='btn-choose'>Choose one For Me</button>
+            <button onClick={() => btnChoose(cart)} className='btn-choose'> Choose one For Me </button>
+            {
+                <p>{choose}</p>
+            }
             <button onClick={btnClear} className='btn-clear'>Clear Cart</button>
             </div>
-            
-
         </div>
     );
 };
