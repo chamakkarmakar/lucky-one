@@ -1,98 +1,74 @@
 [
     {
       "id": 1,
-      "name": "Sunglasses isolated on white",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 332,
-      "eyeColor": "brown",
-      "company": "DELPHIDE"
+      "name": "Martine Square Red Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_642.jpg",
+      "price": 332
     },
     {
       "id": 2,
-      "name": "Sunglasses eyewear isolated",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 434,
-      "eyeColor": "brown",
-      "company": "UPLINX"
+      "name": "Lucas Cateye Champagne Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_72_2.jpg",
+      "price": 434
     },
     {
       "id": 3,
-      "name": "Woman holding a pair of fashion eyeglass",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 112,
-      "eyeColor": "brown",
-      "company": "RECRITUBE"
+      "name": "Brenda Square Dark-Green Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_763_1.jpg",
+      "price": 112
     },
     {
       "id": 4,
-      "name": "Ophthalmologist doctor holding pair of eyeglass",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 530,
-      "eyeColor": "green",
-      "company": "SEQUITUR"
+      "name": "Alivia Cat Eye Pink-Green-Floral Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_50_2.jpg",
+      "price": 530
     },
     {
       "id": 5,
-      "name": "Vacation glasses optical protection sun",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 133,
-      "eyeColor": "brown",
-      "company": "EXOSPACE"
+      "name": "Tyrone Rectangle Tarnish Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/1/_/1_1010_1.jpg",
+      "price": 133
     },
     {
       "id": 6,
-      "name": "Round sunglasses",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 935,
-      "eyeColor": "blue",
-      "company": "BILLMED"
+      "name": "Sanjurjo Geometric Silver Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/i/m/image_2997.jpg",
+      "price": 935
     },
     {
       "id": 7,
-      "name": "modern fashionable spectacles isolated on white",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 676,
-      "eyeColor": "green",
-      "company": "PASTURIA"
+      "name": "Strader Geometric Black Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/i/m/image_1565.jpg",
+      "price": 676
     },
     {
       "id": 8,
-      "name": "modern fashionable spectacles isolated",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 724,
-      "eyeColor": "blue",
-      "company": "BIOHAB"
+      "name": "Eutin Cateye Pink-Tortoise Glasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_404.jpg",
+      "price": 724
     },
     {
       "id": 9,
-      "name": "Women eyewear eyeglass",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 751,
-      "eyeColor": "brown",
-      "company": "MAXEMIA"
+      "name": "Sanabria Square Pink Sunglasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/i/m/image_2467.jpg",
+      "price": 751
     },
     {
       "id": 10,
-      "name": "Sunglass",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 216,
-      "eyeColor": "brown",
-      "company": "SUREPLEX"
+      "name": "Braswell Aviator Black Sunglasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/i/m/image_2551.jpg",
+      "price": 216
     },
     {
       "id": 11,
-      "name": "A front view modern sunglass",
-      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-      "price": 556,
-      "eyeColor": "brown",
-      "company": "LUNCHPAD"
+      "name": "Nasir Geometric Blue Sunglasses",
+      "image": "https://cloudfront.zeelool.com/media/catalog/product/i/m/image_2507.jpg",
+      "price": 556
     },
     {
         "id": 12,
-        "name": "Yellow kids eyeglass",
-        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1634662470-diff-eyewear-x-women-s-health-1634662457.jpg?crop=1xw:1xh;center,top&resize=480:*",
-        "price": 835,
-        "eyeColor": "brown",
-        "company": "DAISU"
+        "name": "Brandon Square Green-Pink Sunglasses",
+        "image": "https://cloudfront.zeelool.com/media/catalog/product/0/1/01_718.jpg",
+        "price": 835
       }
   ]
