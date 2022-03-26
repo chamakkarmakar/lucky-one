@@ -1,6 +1,6 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
-import Cart from '../Cart/Cart';
+// import Cart from '../Cart/Cart';
 import EyeGlass from '../EyeGlass/EyeGlass';
 import './Shop.css';
 
@@ -14,11 +14,22 @@ const Shop = () => {
             .then(data => setEyeGlass(data));
     }, [])
 
-    const handleClick = (eye) =>{
-        console.log(eye);
-        const newCart=[...cart, eye];
-        setCart(newCart);
+    const handleClick = (eyeGlass) =>{
+        // console.log(eyeGlass);
+        const newCart=[...cart, eyeGlass];
+        if(newCart.length<=4){
+            setCart(newCart);
+        }
+        // else{
+        //     console.log('does not')
+        // }
+        
     }
+    const btnClear = () =>{
+        const empty = [];
+        setCart(empty);
+    }
+    
 
     return (
         <div className='shop'>
@@ -33,7 +44,12 @@ const Shop = () => {
                 
             </div>
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+            <h3>Selected Items</h3>
+            {
+                cart.map(item => <p>{item}</p>)
+            }
+            <button className='btn-choose'>Choose one For Me</button>
+            <button onClick={btnClear} className='btn-clear'>Clear Cart</button>
             </div>
             
 
