@@ -1,26 +1,27 @@
 .eye-glass{
-    width: 300px;
-    height: 400px;
+    width: 270px;
+    height: 360px;
     border: 3px solid grey;
     border-radius: 10px ;
 }
 .eye-glass img{
     
-    width: 250px;
-    height: 180px;
+    width: 100%;
+    height: auto;
 }
 .btn-cart{
-    background-color: coral;
+    background-color: #ff9d57;
     color: whitesmoke;
     font-size: 16px;
     font-weight: 400;
     padding: 15px 35px;
+    margin-top: 50px;
     border: none;
     border-radius: 15px;
 }
 .btn-cart:hover{
     background-color: rgb(202, 51, 25);
-    
+    cursor: pointer;  
 }
 .icon{
     padding-left: 8px;

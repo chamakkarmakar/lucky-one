@@ -1,0 +1,31 @@
+.footer-container{    
+    background-color: #faf0e8;
+    padding-top: 10px;
+}
+.footer{
+    border-bottom: 3px solid tomato;
+    padding-left: 35px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.half-width{
+    width: 90%;
+    
+}
+.half-width p{
+    text-align: justify;
+}
+.separator1{
+    border-right: 3px solid tomato ;
+    /* padding-left: 15px; */
+    padding-right: 30px;
+}
+.separator2{
+    border-left: 3px solid tomato;
+    padding-left: 30px;
+}
+.copyright{
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px 0;
+}
