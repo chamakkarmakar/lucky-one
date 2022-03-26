@@ -5,19 +5,22 @@
     border-radius: 10px ;
 }
 .eye-glass img{
-    /* display: grid;
-    grid-template-columns: repeat(3); */
+    
     width: 250px;
     height: 180px;
 }
 .btn-cart{
-    background-color: tomato;
+    background-color: coral;
     color: whitesmoke;
     font-size: 16px;
     font-weight: 400;
     padding: 15px 35px;
     border: none;
     border-radius: 15px;
+}
+.btn-cart:hover{
+    background-color: rgb(202, 51, 25);
+    
 }
 .icon{
     padding-left: 8px;

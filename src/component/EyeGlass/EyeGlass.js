@@ -5,14 +5,15 @@ import './EyeGlass.css';
 
 const EyeGlass = (props) => {
     const {image,name,price}=props.eyeGlass;
-
+    const {handleClick}=props;
+    
     return (
         <div className='eye-glass'>
             <img src={image} alt="" />
             <h5>{name}</h5>
             <p>Price: ${price}</p>
 
-            <button className='btn-cart'>Add to Cart
+            <button onClick={()=> handleClick(name)} className='btn-cart'>Add to Cart
             <FontAwesomeIcon className='icon' icon={faShoppingCart}></FontAwesomeIcon>
             </button>
             
